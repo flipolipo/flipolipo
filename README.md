@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning about **.NET MAUI**
 
-- 📫 How to reach me **www.linkedin.com/in/filip-juroszek-784b4b1a1**
+- 📫 How to reach me <a href="https://linkedin.com/in/filipjuroszek" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 - ⚡ In my free time **I solve tasks on codewars and develop solo projects**
 
